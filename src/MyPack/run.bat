@@ -1,5 +1,3 @@
-javac VehicleGetSetMethod.java 
-
-chcp 1251
+javac -encoding UTF-8 VehicleGetSetMethod.java 
 java VehicleGetSetMethod 
 pause
