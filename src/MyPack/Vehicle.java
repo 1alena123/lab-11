@@ -1,6 +1,6 @@
-﻿package MyPack;
+package MyPack;
 
-class Vehicle{
+public class Vehicle{
     int passengers;
     private int wheels;
     private int maxspeed;
