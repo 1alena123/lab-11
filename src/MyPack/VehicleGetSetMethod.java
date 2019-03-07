@@ -1,6 +1,6 @@
-﻿package MyPack;
+package MyPack;
 
-class VehicleGetSetMethod {
+public class VehicleGetSetMethod {
     public static void main(String args[]){
 
         Vehicle ferrari = new Vehicle(2, 25, 160 ,12);
